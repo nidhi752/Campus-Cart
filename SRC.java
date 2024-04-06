@@ -1,5 +1,5 @@
 class SRC {
-  public static void main(Strinf[] args) {
+  public static void main(String[] args) {
     int x = 10;
     System.out.print(x);
   }
