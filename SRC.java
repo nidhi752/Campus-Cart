@@ -1,6 +1,7 @@
 class SRC {
   public static void main(String[] args) {
-    int x = 10;
-    System.out.print(x);
+    Scanner sc = new Scanner(System.in);
+    System.out.println("Enter your name");
+    String x = sc.nextLine();
   }
 }
