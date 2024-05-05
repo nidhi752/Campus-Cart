@@ -5,3 +5,4 @@ Collecting data from various colleges about fashion and selling clothes, similar
 Characteristic features: online selling, donation integration with an NGO, user authentication, product management, cart management, payment integration and buying clothes.
 It hepls students getting things in less price.
 .
+,
