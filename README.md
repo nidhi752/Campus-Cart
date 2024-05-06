@@ -6,3 +6,4 @@ Characteristic features: online selling, donation integration with an NGO, user 
 It hepls students getting things in less price.
 .
 ,
+.
